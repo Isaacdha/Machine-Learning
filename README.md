@@ -1,2 +1,2 @@
-## <p align=center> Machine Learning
+## <p align=center> 🤖 Machine Learning 🤖
 Collection of Machine-Learning Related Project that i've been made past year.
